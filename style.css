@@ -34,6 +34,12 @@ body{
   
 }
 
+.magnifier:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+
 .mic{
   width: 30px;
   position: absolute;
