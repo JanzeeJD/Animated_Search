@@ -59,6 +59,10 @@ body{
   transition-delay: 0.5s;
 }
 
+.input:focus {
+  border-bottom: 2px solid #6a5acd;
+}
+
 .active.search_container{
   width: 50px;
 }
