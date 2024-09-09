@@ -67,6 +67,11 @@ body{
   width: 50px;
 }
 
+.search_container:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
+}
+
 .active .input{
   width: 0;
 }
