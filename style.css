@@ -48,6 +48,10 @@ body{
   transition-delay: 1s;
 }
 
+.mic:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
 .input{
   background-color: transparent;
   border: none;
