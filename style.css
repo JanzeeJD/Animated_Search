@@ -65,6 +65,7 @@ body{
 
 .input:focus {
   border-bottom: 2px solid #6a5acd;
+  cursor: text;
 }
 
 .active.search_container{
