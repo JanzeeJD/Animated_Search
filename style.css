@@ -74,7 +74,7 @@ body{
 
 .search_container:hover {
   transform: scale(1.02);
-  transition: transform 0.3s ease;
+  transition: background-color 0.3s ease-in-out;
 }
 
 .active .input{
